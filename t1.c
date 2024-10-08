@@ -1,4 +1,6 @@
 #include<stdio.h>
-void main(){
+int main(){
+
 printf("you are done");
+return 0;
 }
